@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2022-11-02 07:59:00-0400
+date: 2023-12-05 07:59:00-0400
 inline: true
+related_posts: false
 ---
 
-Attended UIST 2022 in Bend, Oregon. Tried cool demos, and met old and new friends in person! :smile:
+The Smart Earring got CoMotion Customer Discovery Award (10K) to support its commercilization!

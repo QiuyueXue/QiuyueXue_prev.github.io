@@ -6,4 +6,4 @@ inline: false
 related_posts: false
 ---
 
-Went to Cancun for Ubicomp2023, it was great to catch up with old friends and meet new friends!
+Went to Cancun for Ubicomp2023. It was great to catch up with old friends and meet new friends!
